@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/jay/Desktop/notes/wcnes/project/In-Body-Aggregator/nRF52840/examples/ble_app_name'
+let g:netrw_dirhist_5='/Users/jay/Desktop/notes/wcnes/project/In-Body-Aggregator/nRF52840/examples'
+let g:netrw_dirhist_4='/Users/jay/Desktop/notes/wcnes/project/In-Body-Aggregator/nRF52840'
+let g:netrw_dirhist_3='/Users/jay/Desktop/notes/wcnes/project/In-Body-Aggregator'
+let g:netrw_dirhist_2='/Users/jay/Desktop/notes/wcnes/project/In-Body-Aggregator/nRF52840'
+let g:netrw_dirhist_1='/Users/jay/Desktop/notes/wcnes/project/zephyrproject/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/ble_app_blinky'
+let g:netrw_dirhist_0='/Users/jay/Desktop/notes/wcnes/project/zephyrproject/nRF5_SDK_17.0.2_d674dde/examples/nfc/record_text'
+let g:netrw_dirhist_9='/Users/jay/Desktop/notes/wcnes/project/zephyrproject/nRF5_SDK_17.0.2_d674dde/examples/nfc'
+let g:netrw_dirhist_8='/Users/jay/Desktop/notes/wcnes/project/zephyrproject/nRF5_SDK_17.0.2_d674dde/examples/nfc/record_text'
+let g:netrw_dirhist_7='/Users/jay/Desktop/notes/wcnes/project/zephyrproject/nRF5_SDK_17.0.2_d674dde/examples/nfc/record_launch_app'
