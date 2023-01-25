@@ -22,11 +22,11 @@ filetype plugin indent on
 " Vundle support
 " filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+"call vundle#begin()
 
-Plugin 'VundleVim/Vundle.vim'
+"Plugin 'VundleVim/Vundle.vim'
 
-call vundle#end()
+"call vundle#end()
 
 " Swap file directory 
 set swapfile
